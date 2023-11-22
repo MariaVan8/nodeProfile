@@ -1,0 +1,13 @@
+<header>
+    <h1><%= title %></h1>
+    <nav>
+      <ul>
+       
+        <!-- top level pages -->
+        <% for (let i = 0; i < pages.length; i++) { %>
+        <li><a href="<%= pages[i].path %>"><%= pages[i].name %></a></li>
+        <% } %>
+      </ul>
+    </nav>
+  </header>
+  

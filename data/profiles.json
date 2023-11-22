@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Sydney",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      
+    },
+    {
+      "id": 2,
+      "name": "Joshua",
+      "bio": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "name": "Maria",
+      "bio": "Sed do eiusmod consectetur adipiscing elit et dolore magna aliqua."
+    }
+  
+  ]
+  

@@ -1,0 +1,22 @@
+{
+  "name": "timoteitwo",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "random stuff",
+    "dev": "nodemon app"
+  },
+  "author": "Maria",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
