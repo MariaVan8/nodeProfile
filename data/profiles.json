@@ -1,7 +1,8 @@
-[
+{
+  "profile": [
     {
       "id": 1,
-      "name": "Sydney",
+      "name": "Sydnee",
       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       
     },
@@ -15,6 +16,6 @@
       "name": "Maria",
       "bio": "Sed do eiusmod consectetur adipiscing elit et dolore magna aliqua."
     }
-  
   ]
+}      
   
