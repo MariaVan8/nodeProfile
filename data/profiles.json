@@ -3,18 +3,21 @@
     {
       "id": 1,
       "name": "Sydnee",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "photo": "../public/images/Sydnee.png"
       
     },
     {
       "id": 2,
       "name": "Joshua",
-      "bio": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "bio": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "photo": "../public/images/Joshua.png"
     },
     {
       "id": 3,
       "name": "Maria",
-      "bio": "Sed do eiusmod consectetur adipiscing elit et dolore magna aliqua."
+      "bio": "Sed do eiusmod consectetur adipiscing elit et dolore magna aliqua.",
+      "photo": "../public/images/Maria.png"
     }
   ]
 }      
