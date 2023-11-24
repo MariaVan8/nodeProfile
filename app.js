@@ -5,7 +5,7 @@ const app = express();
 const path = require('path');
 const logger = require('morgan');
 
-const port = process.envPORT || 3008;
+const port = process.envPORT || 3003;
 
 // tell Express where to find our templates (views)
 app.set("views", path.join(__dirname, "views"));
@@ -27,7 +27,6 @@ app.use(bodyParser.json());
 
 app.use(express.static("public"));
 app.use(logger('dev'));
-
 
 app.locals.title = 'My Awesome App';
 app.locals.copyright = new Date().getFullYear();
@@ -51,9 +50,6 @@ app.use('/api', apiRouter);
 app.all("/*", (req, res) => {
     res.status(404).send("File Not Found");
 });
-
-
-
 
 // start listening
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
