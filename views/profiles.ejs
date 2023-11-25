@@ -1,5 +1,10 @@
-<ul>
+<!-- <ul>
   <% profiles.forEach(profile => { %>
     <li><a href="/profiles/<%= profile.id %>"><%= profile.name %></a></li>
+  <% }) %>
+</ul> -->
+<ul>
+  <% profile.forEach(element => { %>
+    <li><a href="/profiles/<% element.id %>"><%= element.name %></a></li>
   <% }) %>
 </ul>

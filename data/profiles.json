@@ -1,5 +1,5 @@
-{
-  "profile": [
+
+  [
     {
       "id": 1,
       "name": "Sydnee",
@@ -19,6 +19,5 @@
       "bio": "Sed do eiusmod consectetur adipiscing elit et dolore magna aliqua.",
       "photo": "../public/images/Maria.png"
     }
-  ]
-}      
+  ]   
   
