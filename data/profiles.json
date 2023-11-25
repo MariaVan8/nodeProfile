@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Sydney",
-      "photo": "../public/imgs/Sydnee.png",
+      "photo": "/images/Sydnee.png",
       "interests":
       [
         "Rollerblading",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Joshua",
-      "photo": "../public/imgs/Joshua.png",
+      "photo": "/images/Joshua.png",
       "interests":
       [
         "Cars",
@@ -26,10 +26,14 @@
     {
       "id": 3,
       "name": "Maria",
-      "photo":  "../public/imgs/Maria.png",
+      "photo":  "/images/Maria.png",
       "interests": 
       [
-
+        "Photography",
+        "Reading",
+        "Coding",
+        "Yoga",
+        "Traveling"
       ]
     }
   ]
